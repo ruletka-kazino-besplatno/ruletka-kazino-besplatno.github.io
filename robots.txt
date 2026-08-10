@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: ruletka-kazino-besplatno.github.io
+Sitemap: https://ruletka-kazino-besplatno.github.io/sitemap.xml
